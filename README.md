@@ -1,5 +1,29 @@
 # electron-vite-vue
 
+
+## 安装说明
+
+1. 配置镜像
+```
+npm config set ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/
+npm config set registry https://registry.npmmirror.com
+
+```
+
+2. npm install
+
+3. npm run dev
+
+
+## 集成组件
+Vite3+TypeScript4+Vue3+axios1+element-plus2+mitt3+pinia2
+
+
+
+
+
+
+
 🥳 Really simple `Electron` + `Vue` + `Vite` boilerplate.
 
 [![awesome-vite](https://awesome.re/mentioned-badge.svg)](https://github.com/vitejs/awesome-vite)
